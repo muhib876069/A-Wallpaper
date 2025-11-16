@@ -20,7 +20,7 @@ A live wallpaper, coded through python, works in wallpaper engine.
 
 # ⚙️ Installation
 Clone the repository
-git clone https://github.com/yourusername/code-style-clock.git
+git clone https://github.com/muhib876069/code-style-clock.git
 
 Navigate to directory
 cd code-style-clock
